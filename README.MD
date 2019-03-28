@@ -11,4 +11,5 @@ LeetCode解题代码以及思路记录
 |15|[3Sum(三数之和)](https://leetcode-cn.com/problems/3sum/)|[C++](solution/015.3Sum/main.cpp)|[Note](solution/015.3Sum/README.md)|Medium|
 |18|[4Sum(四数之和)](https://leetcode-cn.com/problems/4sum/)|[C++](solution/018.4Sum/main.cpp)|[Note](solution/018.4Sum/README.md)|Medium|
 |32|[Longest Valid Parentheses(最长有效括号)](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[C++](solution/032.Longest%20Valid%20Parentheses/main.cpp)|[Note](solution/032.Longest%20Valid%20Parentheses/README.md)|Hard|
-|40|[Combination Sum II(Combination Sum II)](https://leetcode-cn.com/problems/combination-sum-ii/)|[C++](solution/040.Combination%20Sum%20II/main.cpp)|[Note](solution/040.Combination%20Sum%20II/README.md)|Medium|
+|40|[Combination Sum II(组合总和II)](https://leetcode-cn.com/problems/combination-sum-ii/)|[C++](solution/040.Combination%20Sum%20II/main.cpp)|[Note](solution/040.Combination%20Sum%20II/README.md)|Medium|
+|47|[Permutations II(全排列II)](https://leetcode-cn.com/problems/permutations-ii/)|[C++](solution/047.Permutations%20II/main.cpp)|[Note](solution/047.Permutations%20II/README.md)|Medium|
